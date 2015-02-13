@@ -25,12 +25,12 @@ def effective_mass(propagator):
     
     return output
     
-    
-    
+  
+  
     
     
 # -----------------------------------------------------
-# reading from file
+# footer
              
 if __name__ == "__main__":
     print "module containing physics"            
