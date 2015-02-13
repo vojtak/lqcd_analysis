@@ -24,3 +24,14 @@ def effective_mass(propagator):
         output[i]=(log(propagator[i+1]/propagator[i])).real
     
     return output
+    
+  
+  
+    
+    
+# -----------------------------------------------------
+# footer
+             
+if __name__ == "__main__":
+    print "module containing physics"            
+    
