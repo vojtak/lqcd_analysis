@@ -81,4 +81,14 @@ def read_propagator(file_path):
             for line in open(file_path,'rb').readlines()
            ]
              
+             
+             
+             
+             
+             
+# -----------------------------------------------------
+# reading from file
+             
+if __name__ == "__main__":
+    print "module containing I/O functions"            
 

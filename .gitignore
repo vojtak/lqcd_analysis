@@ -3,6 +3,8 @@
 
 # ipython backups
 *.ipynb_checkpoints*
+*.pyc
+
 
 #logs and errors
 *log*
